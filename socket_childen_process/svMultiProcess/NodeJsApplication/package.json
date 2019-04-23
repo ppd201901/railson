@@ -1,0 +1,17 @@
+{
+    "name": "NodeJsApplication",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "rails",
+    "contributors": [],
+    "dependencies": {
+        "msgpack5": "^4.2.1",
+        "pg": "^7.9.0"
+    }
+}
